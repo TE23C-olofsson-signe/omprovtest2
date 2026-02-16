@@ -2,7 +2,13 @@ using System;
 
 namespace omprovtest2;
 
-public class DarthVader
+public class DarthVader:SuperVillain
 {
-
+    public DarthVader()
+    {
+        Name="DarthVader"; 
+        Patience = 40; 
+        TheorySkill = 20; 
+        DrivingSkill= 20; 
+    }
 }

@@ -8,7 +8,7 @@ public class DarthVader:SuperVillain
     {
         Name="DarthVader"; 
         Patience = 40; 
-        TheorySkill = 20; 
+        TheorySkill = 10; 
         DrivingSkill= 20; 
     }
 }

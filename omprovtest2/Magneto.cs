@@ -10,5 +10,6 @@ public class Magneto:SuperVillain
         Patience = 40; 
         TheorySkill=10;
         DrivingSkill=20;  
+       
     }
 }

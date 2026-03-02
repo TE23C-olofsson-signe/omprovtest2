@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\signe.olofsson\\Documents\\programmerin 2\\omprovtest2\\omprovtest2\\omprovtest2.csproj": {}
+    "c:\\Users\\signe.olofsson\\Documents\\programmerin 2\\omprovtest2\\omprovtest2\\omprovtest2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\signe.olofsson\\Documents\\programmerin 2\\omprovtest2\\omprovtest2\\omprovtest2.csproj": {
+    "c:\\Users\\signe.olofsson\\Documents\\programmerin 2\\omprovtest2\\omprovtest2\\omprovtest2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\signe.olofsson\\Documents\\programmerin 2\\omprovtest2\\omprovtest2\\omprovtest2.csproj",
+        "projectUniqueName": "c:\\Users\\signe.olofsson\\Documents\\programmerin 2\\omprovtest2\\omprovtest2\\omprovtest2.csproj",
         "projectName": "omprovtest2",
-        "projectPath": "C:\\Users\\signe.olofsson\\Documents\\programmerin 2\\omprovtest2\\omprovtest2\\omprovtest2.csproj",
+        "projectPath": "c:\\Users\\signe.olofsson\\Documents\\programmerin 2\\omprovtest2\\omprovtest2\\omprovtest2.csproj",
         "packagesPath": "C:\\Users\\signe.olofsson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\signe.olofsson\\Documents\\programmerin 2\\omprovtest2\\omprovtest2\\obj\\",
+        "outputPath": "c:\\Users\\signe.olofsson\\Documents\\programmerin 2\\omprovtest2\\omprovtest2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

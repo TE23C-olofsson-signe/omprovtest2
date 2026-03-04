@@ -13,7 +13,7 @@ public class SuperVillain
 
     public void LearnTheory()
     {
-        
+
         int spel = Random.Shared.Next(2);
         if (Patience == 0)
         {
@@ -51,20 +51,21 @@ public class SuperVillain
     }
     public bool TakeTest()
     {
+        Console.WriteLine($"Teori: {TheorySkill}, Körning: {DrivingSkill}");
         int play = TheorySkill;
         int steer = DrivingSkill;
-    
-        
-            if (play>=40&&steer>=40)
-            {
-                Console.WriteLine("Du fick ditt körkort");
-                HasLicence=true; 
-            }
-            else
-            {
-                Console.WriteLine("Du nådde inte kravet för körkort");
-            }
-        
+
+
+        if (play >= 40 && steer >= 40)
+        {
+            Console.WriteLine("Du fick ditt körkort");
+            HasLicence = true;
+        }
+        else
+        {
+            Console.WriteLine("Du nådde inte kravet för körkort");
+        }
+
         return HasLicence;
     }
 }
